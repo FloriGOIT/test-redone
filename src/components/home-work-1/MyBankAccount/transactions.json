@@ -1,0 +1,150 @@
+[
+  {
+    "id": "1e0700a2-5183-4291-85cc-2065a036a683",
+    "type": "income",
+    "amount": "1208",
+    "currency": "USD",
+    "activity":"my montly net income"
+  },
+  {
+    "id": "a30f821b-4d25-4ff0-abdd-e340b3f0dd2b",
+    "type": "retragere",
+    "amount": "170",
+    "currency": "RON",
+    "activity":"dance classes"
+  },
+  {
+    "id": "44dca67a-8e5a-4798-bf8e-b15efd4e1ab8",
+    "type": "income",
+    "amount": "4598",
+    "currency": "EUR",
+    "activity":"my montly net income"
+  },
+  {
+    "id": "44dca67a-8e5a-4798-bf8e-b15efd4e1abd",
+    "type": "income",
+    "amount": "2598",
+    "currency": "GBP",
+    "activity":"my montly net income"
+  },
+  {
+    "id": "ea8ed3dc-2b68-4a53-905a-53ecb0adef33",
+    "type": "insasare",
+    "amount": "2838",
+    "currency": "EUR",
+    "activity":"my montly net income"
+  },
+  {
+    "id": "ea76146a-0b00-4b80-bc02-a8c822176712",
+    "type": "retragere",
+    "amount": "1428",
+    "currency": "GBP",
+    "activity":"excursie cu partenerul meu"
+
+  },
+  {
+    "id": "63ca02f9-d637-46b5-9237-f3b24425e029",
+    "type": "retragere",
+    "amount": "1208",
+    "currency": "EUR",
+    "activity":"hrana si apartament"
+  },
+  {
+    "id": "ed0263e8-59a5-4bf1-87e0-2bb88e53dc34",
+    "type": "retragere",
+    "amount": "908.00",
+    "currency": "RON",
+    "activity":"excalada"
+  },
+  {
+    "id": "6013bad0-750c-4691-8bc2-d8f2b43969c4",
+    "type": "retragere",
+    "amount": "1008",
+    "currency": "EUR",
+    "activity":"healty life style"
+  },
+  {
+    "id": "252c7be4-8b06-4fa7-8d42-61fb835b70d5",
+    "type": "payment",
+    "amount": "708",
+    "currency": "USD",
+    "activity":"investing in my education"
+  },
+  {
+    "id": "4eaab41b-b967-40ac-82ed-85fc66f646f1",
+    "type": "payment",
+    "amount": "3408",
+    "currency": "GBP",
+    "activity":"investments"
+  },
+  {
+    "id": "9648a350-8469-42d5-8bf3-18090de5fe67",
+    "type": "withdrawal",
+    "amount": "1498",
+    "currency": "RON",
+    "activity":"leasure time in the city with friends, family"
+  },
+  {
+    "id": "9c5c25fb-1a95-4b2f-8d1f-4c4426d677cc",
+    "type": "invoice",
+    "amount": "358",
+    "currency": "EUR",
+    "activity":"meintain and sustain my car-path"
+  },
+  {
+    "id": "43ef232c-80e9-4d6f-b48a-b22405620de3",
+    "type": "income",
+    "amount": "2248",
+    "currency": "EUR",
+    "activity":"my montly net income"
+  },
+  {
+    "id": "5161682e-e620-4019-ab0a-24ceb10fbd20",
+    "type": "income",
+    "amount": "307.08",
+    "currency": "USD",
+    "activity":"my montly net income"
+  },
+  {
+    "id": "7b119d71-42e6-4c42-a141-6818b07bb9ff",
+    "type": "invoice",
+    "amount": "828",
+    "currency": "USD",
+    "activity":"spending healty time with my parents"
+  },
+  {
+    "id": "a4f65722-65c4-4c28-b1f4-b8ed988bb205",
+    "type": "plata",
+    "amount": "813.18",
+    "currency": "USD",
+    "activity":"excursie cu nepotii, fratele, cumnata"
+  },
+  {
+    "id": "c6e5784b-0ca3-48d6-86e5-b5128af5a523",
+    "type": "retragere",
+    "amount": "888",
+    "currency": "RON",
+    "activity":"I have money in my pockets"
+  },
+  {
+    "id": "c9ebed6a-3a02-4b49-ac0d-0534b51f2bfd",
+    "type": "invoice",
+    "amount": "1878.67",
+    "currency": "USD",
+    "activity":"body alignment courses"
+  },
+  {
+    "id": "a4a98b0e-b22c-438b-9f83-de2df52110c8",
+    "type": "invoice",
+    "amount": "725.03",
+    "currency": "USD",
+    "activity":"relaxing with massage"
+  },
+  {
+    "id": "b39bfa7a-0166-4c47-94d6-87d20590f746",
+    "type": "payment",
+    "amount": "405.45",
+    "currency": "GBP",
+    "activity":"I take care of myself"
+  }
+]

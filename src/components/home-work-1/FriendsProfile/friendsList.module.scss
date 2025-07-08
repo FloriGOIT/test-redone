@@ -1,0 +1,25 @@
+.friendsAll {
+  border: 1px solid brown;
+  padding: 20px;
+  background-color: rgb(252, 228, 150);
+width: 200px;
+  ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    
+    li {padding: 5px 10px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        gap: 10px;
+        border: 1px solid brown;
+        font-size: 17px;
+        font-weight: 800;
+        background-color: whitesmoke;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.514);
+    }
+  }
+}

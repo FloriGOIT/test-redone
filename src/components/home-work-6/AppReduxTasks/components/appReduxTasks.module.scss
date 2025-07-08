@@ -1,0 +1,36 @@
+.appReduxTasks {
+  background-color: beige;
+  padding: 20px;
+  border: 1px solid rgb(112, 11, 11);
+  .headerTasksApp {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .listTasks {
+    list-style-type: none;
+    li {
+        .textTask {
+                        display: flex;
+                        flex-direction: row; gap:10px;
+                        align-items: center;         }
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+    }
+
+  }
+}
+
+.selected {
+  background-color: hsl(240, 83%, 49%);
+  color: white;
+  margin-left: 15px;
+  font-size: 20px;
+}
+.filtering {
+  background-color: rgb(185, 185, 228);
+  margin-left: 15px;
+  font-size: 20px;
+}

@@ -1,0 +1,22 @@
+.monthlyTransactions {
+  border: 1px solid #8B4513;
+  //border-collapse:;
+  width:fit-content;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.514);;
+}
+thead {
+  background-color:#8B4513;
+  color: white;
+  font-size: 24px;
+ 
+     
+}
+th,
+td {
+  text-align: center;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: rgba(39, 141, 8, 0.575);
+}

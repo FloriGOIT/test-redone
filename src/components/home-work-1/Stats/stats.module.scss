@@ -1,0 +1,28 @@
+.statsWraper {
+  border: 1px solid rgb(173, 167, 167);
+  text-align: center;
+  width: 600px;
+
+  h3 {
+    margin: 25px;
+    color: rgb(39, 37, 37);
+  }
+
+  .list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style-type: none;
+    color: rgb(212, 206, 206);
+    li {
+      flex: 1;
+      padding: 15px 0px;
+      display: flex;
+      flex-direction: column;
+      .percentage {
+        font-size: 20px;
+        font-weight: 800;
+      }
+    }
+  }
+}

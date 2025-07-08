@@ -1,0 +1,13 @@
+.movieList ul{list-style-type: none;}
+.moviesAll nav {background-color: rgba(173, 216, 230, 0.329); text-decoration: none; font-size: 28px;
+.nav{text-decoration: none; border: 1px solid gray; padding: 10px; background-color: white;
+        color: cadetblue; margin-right: 20px;}
+.active{background-color: cadetblue;
+        color: white;}}
+.detailsAll{padding: 20px 40px;
+        .detailsUp {
+                        display: flex;
+                        flex-direction: row;
+                        gap: 30px;
+                }
+}
